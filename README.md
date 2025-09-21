@@ -133,10 +133,12 @@ Below is a snapshot of some documented hate speech incidents:
 
 ## 8. Contributing  
 
-We welcome contributions to **EchoWatch**! Here’s how you can help:  
+We welcome contributions to **EchoWatch**! expand and refine the dataset or improve documentation. Here’s how you can help:  
 
 1. **Fork the repository** on GitHub  
 2. **Clone your fork** locally  
    ```bash
    git clone https://github.com/your-username/echowatch.git
    cd echowatch
+3. Dont forget to read our detailed [Contributing Guidelines](./CONTRIBUTING.md) for step-by-step instructions. 
+
