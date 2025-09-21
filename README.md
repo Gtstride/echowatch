@@ -92,7 +92,7 @@ Also read our detailed file [Main-Ideal](./MAIN-README.md) for why this project.
 
 ## Links
 - GitHub Repo: [EchoWatch](https://github.com/Gtstride/echowatch)  
-- To be added: Project Website  
+- Project Website: To be added soon. 
 
 ---
 
@@ -103,5 +103,5 @@ Special thanks to the **WITNESS team** and collaborators for their mentorship, g
 
 <p align="center">
   <img src="./assets/witness.png" alt="EchoWatch Logo" width="150"/>
-  <img src="./assets/witness.png" alt="EchoWatch Logo" width="150"/>
+  <img src="./assets/echo.png" alt="EchoWatch Logo" width="150"/>
 </p>
